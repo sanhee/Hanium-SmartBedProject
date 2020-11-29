@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/insert_sleeps"
+        android:title="샘플 수면 데이터 삽입" />
+    <item
+        android:id="@+id/delete_sleeps"
+        android:title="수면 데이터 삭제" />
+
+    <item
+        android:id="@+id/insert_today_sleep"
+        android:title="오늘 수면 정보 삽입" />
+
+    <item
+        android:id="@+id/test_act"
+        android:title="액추에이터 제어" />
+
+    <item android:title="가습기 제어">
+        <menu>
+            <item
+                android:id="@+id/test_hum_on"
+                android:title="On" />
+
+            <item
+                android:id="@+id/test_hum_off"
+                android:title="Off" />
+        </menu>
+    </item>
+
+    <item android:title="산소발생기 제어">
+        <menu>
+            <item
+                android:id="@+id/test_O2_on"
+                android:title="On" />
+
+            <item
+                android:id="@+id/test_O2_off"
+                android:title="Off" />
+        </menu>
+    </item>
+
+    <item android:title="LED">
+        <menu>
+            <item
+                android:id="@+id/test_m_led_on"
+                android:title="M_On" />
+            <item
+                android:id="@+id/test_m_led_off"
+                android:title="M_Off" />
+
+            <item
+                android:id="@+id/test_l_led_on"
+                android:title="L_On" />
+            <item
+                android:id="@+id/test_l_led_off"
+                android:title="L_Off" />
+
+            <item
+                android:id="@+id/test_r_led_on"
+                android:title="R_On" />
+            <item
+                android:id="@+id/test_r_led_off"
+                android:title="R_Off" />
+
+            <item
+                android:id="@+id/test_lamp_off"
+                android:title="Lamp_OFF" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/test_alarmout"
+        android:title="알람 끄기" />
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#122634</color>
+    <color name="colorPrimaryDark">#09151F</color>
+    <color name="colorAccent">#6ACCF9</color>
+
+    <color name="colorBackground">#122634</color>
+    <color name="colorDialogBackground">#224558</color>
+    <color name="colorGray">#5B7084</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorStar">#FFC107</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorChoral">#FF5252</color>
+    <color name="colorOrange">#FF8F00</color>
+    <color name="trafficColorGreen">#0ECA18</color>
+    <color name="colorSignalRed">#f1404b</color>
+    <color name="colorSignalYellow">#f9d423</color>
+    <color name="colorSignalGreen">#3ac569</color>
+    <color name="colorBlack">#000000</color>
+</resources>

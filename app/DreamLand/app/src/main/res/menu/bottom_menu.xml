@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tab_start"
+        android:icon="@drawable/ic_moon_24dp"
+        android:title="수면시작" />
+    <item
+        android:id="@+id/tab_management"
+        android:icon="@drawable/ic_diary_24dp"
+        android:title="수면일지" />
+    <item
+        android:id="@+id/tab_health"
+        android:icon="@drawable/ic_health_24dp"
+        android:title="건강상태" />
+    <item
+        android:id="@+id/tab_setting"
+        android:title="설정"
+        android:icon="@drawable/ic_setting_24dp"
+        />
+</menu>
