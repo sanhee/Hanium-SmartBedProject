@@ -1,6 +1,6 @@
 # [2020 한이음] 수면관리를 위한 스마트 침대
 
-<p align="center"><img src="https://i.imgur.com/8RJkwN2.png" width="300" height="200"></p>
+<p align="center"><img src="https://i.imgur.com/U4luNfX.png" width="300" height="300"></p>
   - 과학기술정보통신부에서 주관하는 한이음 공모전에서 동상을 수상한 프로젝트 입니다.
 
 ### 작품 영상 링크(Youtube)
