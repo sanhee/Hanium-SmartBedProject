@@ -7,7 +7,7 @@
   
  | | | |
 |------|---|---|
-|<p align="left"><img src="https://i.imgur.com/94By6Z5.png" width="200" height="300" width="200" height="300"></p> <p align="center">|추후 업로드 |추후 업로드|
+|<p align="left"><img src="https://i.imgur.com/CMcbFHj.png" width="200" height="300" width="200" height="300"></p> <p align="center">|추후 업로드 |추후 업로드|
   
 
 ### 작품 영상 링크(Youtube)
