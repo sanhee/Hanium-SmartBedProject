@@ -4,12 +4,11 @@
 
  - <b>과학기술정보통신부</b>에서 주관하는 한이음 공모전에서 <b>동상</b>을 수상한 프로젝트 입니다.
  - <b>정보처리학회</b> 논문 게제 및 출판
-  
- | | | |
-|------|---|---|
-|<p align="left"><img src="https://i.imgur.com/CMcbFHj.png" width="200" height="300" width="200" height="300"></p> <p align="center">|추후 업로드 |추후 업로드|
-  
-
+ 
+ |한이음 공모전 동상|
+|------|
+|<p align="left"><img src="https://i.imgur.com/8HjTHT2.jpg" width="200" height="300"></p> <p align="center">|
+ 
 ### 작품 영상 링크(Youtube)
 > - https://youtu.be/a32v1hPw6xY
 
